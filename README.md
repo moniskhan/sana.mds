@@ -1,3 +1,3 @@
 sana.mds
 ========
-Test 2
+SE390 - External-Mini Project
